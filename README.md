@@ -2,7 +2,7 @@
 Repository to extract gender-exclusive words based on their affixes.
 
 As outlined in our paper _From Showgirls to Performers: Fine-tuning with Gender-inclusive
-Language for Bias Reduction in LLMs_, there are three rounds of extraction & verification. 
+Language for Bias Reduction in LLMs_, there are three main rounds of extraction & verification. 
 
 ## Round 1 - Word Extraction
 Use `word_extraction.ipynb` to extract words with gender-marking affixes from the 200M words OpenWebText corpus.
