@@ -1,0 +1,416 @@
+,word,variant,count,cat,affix_type
+0,spokesman,spokesman,18072, man,suffix
+1,congressman,congressman,1702, man,suffix
+2,businessman,businessman,1588, man,suffix
+3,policeman,policeman,1155, man,suffix
+4,freshman,freshman,412, man,suffix
+5,fisherman,fisherman,376, man,suffix
+6,cameraman,cameraman,375, man,suffix
+7,statesman,statesman,293, man,suffix
+8,defenseman,defenseman,233, man,suffix
+9,madman,madman,183, man,suffix
+10,frontman,frontman,178, man,suffix
+11,fireman,fireman,131, man,suffix
+12,postman,postman,127, man,suffix
+13,baseman,baseman,124, man,suffix
+14,strongman,strongman,124, man,suffix
+15,foreman,foreman,121, man,suffix
+16,craftsman,craftsman,111, man,suffix
+17,ombudsman,ombudsman,109, man,suffix
+18,hitman,hitman,107, man,suffix
+19,superman,superman,94, man,suffix
+20,caveman,caveman,89, man,suffix
+21,batsman,batsman,85, man,suffix
+22,lineman,lineman,74, man,suffix
+23,workman,workman,73, man,suffix
+24,barman,barman,70, man,suffix
+25,showman,showman,69, man,suffix
+26,newsman,newsman,68, man,suffix
+27,pitchman,pitchman,67, man,suffix
+28,serviceman,serviceman,67, man,suffix
+29,defenceman,defenceman,61, man,suffix
+30,snowman,snowman,60, man,suffix
+31,watchman,watchman,60, man,suffix
+32,marksman,marksman,58, man,suffix
+33,sportsman,sportsman,58, man,suffix
+34,hangman,hangman,56, man,suffix
+35,weatherman,weatherman,55, man,suffix
+36,mailman,mailman,52, man,suffix
+37,taxman,taxman,47, man,suffix
+38,tribesman,tribesman,47, man,suffix
+39,wingman,wingman,46, man,suffix
+40,batman,batman,45, man,suffix
+41,seaman,seaman,43, man,suffix
+42,anchorman,anchorman,39, man,suffix
+43,conman,conman,37, man,suffix
+44,assemblyman,assemblyman,36, man,suffix
+45,draftsman,draftsman,35, man,suffix
+46,crewman,crewman,35, man,suffix
+47,freeman,freeman,32, man,suffix
+48,journeyman,journeyman,30, man,suffix
+49,gentlemen,gentlemen,29, man,suffix
+50,militiaman,militiaman,27, man,suffix
+51,horseman,horseman,26, man,suffix
+52,headman,headman,25, man,suffix
+53,motorman,motorman,24, man,suffix
+54,linesman,linesman,23, man,suffix
+55,swordsman,swordsman,23, man,suffix
+56,bondsman,bondsman,22, man,suffix
+57,lawman,lawman,21, man,suffix
+58,warehouseman,warehouseman,20, man,suffix
+59,midshipman,midshipman,19, man,suffix
+60,yeoman,yeoman,19, man,suffix
+61,jokerman,jokerman,18, man,suffix
+62,spaceman,spaceman,18, man,suffix
+63,workingman,workingman,17, man,suffix
+64,kinsman,kinsman,17, man,suffix
+65,corpsman,corpsman,15, man,suffix
+66,bluesman,bluesman,15, man,suffix
+67,woodsman,woodsman,15, man,suffix
+68,newspaperman,newspaperman,14, man,suffix
+69,guardsman,guardsman,14, man,suffix
+70,frontiersman,frontiersman,13, man,suffix
+71,boatman,boatman,13, man,suffix
+72,triggerman,triggerman,13, man,suffix
+73,iceman,iceman,12, man,suffix
+74,policemen,policemen,12, man,suffix
+75,dairyman,dairyman,12, man,suffix
+76,freedman,freedman,12, man,suffix
+77,stallman,stallman,11, man,suffix
+78,stockman,stockman,11, man,suffix
+79,longshoreman,longshoreman,11, man,suffix
+80,bagman,bagman,11, man,suffix
+81,swingman,swingman,11, man,suffix
+82,flagman,flagman,10, man,suffix
+83,stickman,stickman,10, man,suffix
+84,walkman,walkman,10, man,suffix
+85,coachman,coachman,10, man,suffix
+86,netman,netman,10, man,suffix
+87,counterman,counterman,10, man,suffix
+88,ironman,ironman,9, man,suffix
+89,churchman,churchman,9, man,suffix
+90,soundman,soundman,9, man,suffix
+91,bushman,bushman,8, man,suffix
+92,boogieman,boogieman,8, man,suffix
+93,sheepman,sheepman,8, man,suffix
+94,bondman,bondman,8, man,suffix
+95,radioman,radioman,8, man,suffix
+96,deadman,deadman,8, man,suffix
+97,footman,footman,8, man,suffix
+98,sandman,sandman,8, man,suffix
+99,firemen,firemen,7, man,suffix
+100,frogman,frogman,7, man,suffix
+101,axeman,axeman,7, man,suffix
+102,no-man,no-man,7, man,suffix
+103,spiderman,spiderman,7, man,suffix
+104,selectman,selectman,7, man,suffix
+105,seedsman,seedsman,6, man,suffix
+106,cartman,cartman,6, man,suffix
+107,ploughman,ploughman,6, man,suffix
+108,transman,transman,6, man,suffix
+109,lumberman,lumberman,6, man,suffix
+110,connman,connman,6, man,suffix
+111,waxman,waxman,6, man,suffix
+112,plantman,plantman,6, man,suffix
+113,con-man,con-man,6, man,suffix
+114,bowman,bowman,6, man,suffix
+115,swagman,swagman,5, man,suffix
+116,groomsman,groomsman,5, man,suffix
+117,merchantman,merchantman,5, man,suffix
+118,landsman,landsman,5, man,suffix
+119,groundsman,groundsman,5, man,suffix
+120,placeman,placeman,5, man,suffix
+121,bellman,bellman,5, man,suffix
+122,adman,adman,5, man,suffix
+123,wheelman,wheelman,4, man,suffix
+124,draughtsman,draughtsman,4, man,suffix
+125,lifeboatman,lifeboatman,4, man,suffix
+126,wildman,wildman,4, man,suffix
+127,carman,carman,4, man,suffix
+128,clansman,clansman,4, man,suffix
+129,lobsterman,lobsterman,4, man,suffix
+130,headsman,headsman,4, man,suffix
+131,whiteman,whiteman,4, man,suffix
+132,tillman,tillman,3, man,suffix
+133,microman,microman,3, man,suffix
+134,targetman,targetman,3, man,suffix
+135,pointman,pointman,3, man,suffix
+136,cavalryman,cavalryman,3, man,suffix
+137,oarsman,oarsman,3, man,suffix
+138,oysterman,oysterman,3, man,suffix
+139,glovesman,glovesman,3, man,suffix
+140,swordman,swordman,3, man,suffix
+141,storeman,storeman,3, man,suffix
+142,sideman,sideman,3, man,suffix
+143,centerman,centerman,3, man,suffix
+144,busman,busman,3, man,suffix
+145,pedoman,pedoman,3, man,suffix
+146,huntsman,huntsman,3, man,suffix
+147,lensman,lensman,3, man,suffix
+148,plowman,plowman,3, man,suffix
+149,servicemen,servicemen,3, man,suffix
+150,woodman,woodman,2, man,suffix
+151,hellman,hellman,2, man,suffix
+152,underclassman,underclassman,2, man,suffix
+153,ragman,ragman,2, man,suffix
+154,slaughterman,slaughterman,2, man,suffix
+155,packman,packman,2, man,suffix
+156,packetman,packetman,2, man,suffix
+157,binman,binman,2, man,suffix
+158,fishermen,fishermen,2, man,suffix
+159,nightman,nightman,2, man,suffix
+160,pieman,pieman,2, man,suffix
+161,barrowman,barrowman,2, man,suffix
+162,sugarman,sugarman,2, man,suffix
+163,topman,topman,2, man,suffix
+164,switchman,switchman,2, man,suffix
+165,spearfisherman,spearfisherman,2, man,suffix
+166,assman,assman,2, man,suffix
+167,rasterman,rasterman,2, man,suffix
+168,ratman,ratman,2, man,suffix
+169,classman,classman,2, man,suffix
+170,minuteman,minuteman,2, man,suffix
+171,cornishman,cornishman,2, man,suffix
+172,deskman,deskman,2, man,suffix
+173,cornerman,cornerman,2, man,suffix
+174,sportsmen,sportsmen,2, man,suffix
+175,ultraman,ultraman,2, man,suffix
+176,gershman,gershman,2, man,suffix
+177,pressman,pressman,2, man,suffix
+178,seeman,seeman,2, man,suffix
+179,handicraftsman,handicraftsman,1, man,suffix
+180,liftman,liftman,1, man,suffix
+181,he-man,he-man,1, man,suffix
+182,cyberman,cyberman,1, man,suffix
+183,macro-man,macro-man,1, man,suffix
+184,rubberman,rubberman,1, man,suffix
+185,she-man,she-man,1, man,suffix
+186,washerman,washerman,1, man,suffix
+187,cameramen,cameramen,1, man,suffix
+188,starman,starman,1, man,suffix
+189,gateman,gateman,1, man,suffix
+190,artilleryman,artilleryman,1, man,suffix
+191,cutman,cutman,1, man,suffix
+192,nightwatchman,nightwatchman,1, man,suffix
+193,spokesmen,spokesmen,1, man,suffix
+194,townsman,townsman,1, man,suffix
+195,pointsman,pointsman,1, man,suffix
+196,spearman,spearman,1, man,suffix
+197,expressman,expressman,1, man,suffix
+198,gleeman,gleeman,1, man,suffix
+199,tribesmen,tribesmen,1, man,suffix
+200,pig-man,pig man,1, man,suffix
+201,spoonman,spoonman,1, man,suffix
+202,prman,prman,1, man,suffix
+203,chessmen,chessmen,1, man,suffix
+204,dutchman,dutchman,1, man,suffix
+205,rainman,rainman,1, man,suffix
+206,crossbowman,crossbowman,1, man,suffix
+207,ambulanceman,ambulanceman,1, man,suffix
+208,overman,overman,1, man,suffix
+209,pcman,pcman,1, man,suffix
+210,bargeman,bargeman,1, man,suffix
+211,almsman,almsman,1, man,suffix
+212,cabman,cabman,1, man,suffix
+213,boardman,boardman,1, man,suffix
+214,centreman,centreman,1, man,suffix
+215,sub-man,sub-man,1, man,suffix
+216,gearman,gearman,1, man,suffix
+217,discman,discman,1, man,suffix
+218,seamen,seamen,1, man,suffix
+219,longshoremen,longshoremen,1, man,suffix
+220,rockman,rockman,1, man,suffix
+221,portman,portman,1, man,suffix
+222,frenchman,frenchman,1, man,suffix
+223,defensemen,defensemen,1, man,suffix
+224,snowmen,snowmen,1, man,suffix
+225,defencemen,defencemen,1, man,suffix
+226,cocksman,cocksman,1, man,suffix
+227,upperclassman,upperclassman,1, man,suffix
+228,winchman,winchman,1, man,suffix
+229,merman,merman,1, man,suffix
+230,selectmen,selectmen,1, man,suffix
+231,birdman,birdman,1, man,suffix
+232,capman,capman,1, man,suffix
+233,bunnyman,bunnyman,1, man,suffix
+234,backwoodsman,backwoodsman,1, man,suffix
+235,bestman,bestman,1, man,suffix
+236,garageman,garageman,1, man,suffix
+237,powerman,powerman,1, man,suffix
+238,spokeswoman,spokeswoman,5731, woman,suffix
+239,congresswoman,congresswoman,163, woman,suffix
+240,businesswoman,businesswoman,101, woman,suffix
+241,policewoman,policewoman,46, woman,suffix
+242,anchorwoman,anchorwoman,19, woman,suffix
+243,forewoman,forewoman,15, woman,suffix
+244,gentlewoman,gentlewoman,7, woman,suffix
+245,madwoman,madwoman,6, woman,suffix
+246,spokewoman,spokewoman,6, woman,suffix
+247,frontierswoman,frontierswoman,6, woman,suffix
+248,charwoman,charwoman,6, woman,suffix
+249,bondwoman,bondwoman,6, woman,suffix
+250,everywoman,everywoman,6, woman,suffix
+251,noblewoman,noblewoman,6, woman,suffix
+252,fisherwoman,fisherwoman,5, woman,suffix
+253,transwoman,transwoman,4, woman,suffix
+254,newswoman,newswoman,4, woman,suffix
+255,frontwoman,frontwoman,3, woman,suffix
+256,cavewoman,cavewoman,3, woman,suffix
+257,servicewoman,servicewoman,3, woman,suffix
+258,bogeywoman,bogeywoman,3, woman,suffix
+259,stateswoman,stateswoman,2, woman,suffix
+260,man-woman,manwoman,2, woman,suffix
+261,craftswoman,craftswoman,2, woman,suffix
+262,washerwoman,washerwoman,2, woman,suffix
+263,policewomen,policewomen,2, woman,suffix
+264,hitwoman,hitwoman,2, woman,suffix
+265,batwoman,batwoman,1, woman,suffix
+266,markswoman,markswoman,1, woman,suffix
+267,swordswoman,swordswoman,1, woman,suffix
+268,sportswoman,sportswoman,1, woman,suffix
+269,ambulancewoman,ambulancewoman,1, woman,suffix
+270,catwoman,catwoman,1, woman,suffix
+271,anti-woman,antiwoman,1, woman,suffix
+272,selectwoman,selectwoman,1, woman,suffix
+273,tribeswoman,tribeswoman,1, woman,suffix
+274,horsewoman,horsewoman,1, woman,suffix
+275,cowboy,cowboy,523, boy,suffix
+276,playboy,playboy,163, boy,suffix
+277,fanboy,fanboy,159, boy,suffix
+278,tomboy,tomboy,55, boy,suffix
+279,busboy,busboy,37, boy,suffix
+280,plowboy,plowboy,31, boy,suffix
+281,paperboy,paperboy,28, boy,suffix
+282,homeboy,homeboy,26, boy,suffix
+283,cowboys,cowboys,23, boy,suffix
+284,fanboys,fanboys,22, boy,suffix
+285,doughboy,doughboy,6, boy,suffix
+286,playboys,playboys,5, boy,suffix
+287,sackboy,sackboy,5, boy,suffix
+288,ballboy,ballboy,5, boy,suffix
+289,batboy,batboy,5, boy,suffix
+290,houseboy,houseboy,5, boy,suffix
+291,ladyboy,ladyboy,4, boy,suffix
+292,farmboy,farmboy,4, boy,suffix
+293,fireboy,fireboy,3, boy,suffix
+294,newsboy,newsboy,3, boy,suffix
+295,hellboy,hellboy,3, boy,suffix
+296,bellboy,bellboy,3, boy,suffix
+297,man-boy,manboy,2, boy,suffix
+298,paperboys,paperboys,2, boy,suffix
+299,fratboy,fratboy,2, boy,suffix
+300,busboys,busboys,2, boy,suffix
+301,fisherboy,fisherboy,1, boy,suffix
+302,nancyboy,nancyboy,1, boy,suffix
+303,transboy,transboy,1, boy,suffix
+304,headboy,headboy,1, boy,suffix
+305,doughboys,doughboys,1, boy,suffix
+306,whiteboy,whiteboy,1, boy,suffix
+307,femboy,femboy,1, boy,suffix
+308,toyboy,toyboy,1, boy,suffix
+309,copyboy,copyboy,1, boy,suffix
+310,dog-boy,dog boy,1, boy,suffix
+311,tomboys,tomboys,1, boy,suffix
+312,manboy,manboy,1, boy,suffix
+313,callboy,callboy,1, boy,suffix
+314,poboy,poboy,1, boy,suffix
+315,flyboys,flyboys,1, boy,suffix
+316,showgirl,showgirl,18, girl,suffix
+317,fangirl,fangirl,14, girl,suffix
+318,cowgirl,cowgirl,13, girl,suffix
+319,supergirl,supergirl,7, girl,suffix
+320,batgirl,batgirl,3, girl,suffix
+321,showgirls,showgirls,3, girl,suffix
+322,dreamgirl,dreamgirl,2, girl,suffix
+323,bargirls,bargirls,2, girl,suffix
+324,bargirl,bargirl,2, girl,suffix
+325,babygirl,babygirl,1, girl,suffix
+326,tomgirl,tomgirl,1, girl,suffix
+327,transgirl,transgirl,1, girl,suffix
+328,callgirl,callgirl,1, girl,suffix
+329,playgirl,playgirl,1, girl,suffix
+330,fangirls,fangirls,1, girl,suffix
+331,tubgirl,tubgirl,1, girl,suffix
+332,snowgirl,snowgirl,1, girl,suffix
+333,ex-girl,ex-girl,1, girl,suffix
+334,papergirl,papergirl,1, girl,suffix
+335,cavegirl,cavegirl,1, girl,suffix
+336,ballgirl,ballgirl,1, girl,suffix
+337,farmgirl,farmgirl,1, girl,suffix
+338,cowgirls,cowgirls,1, girl,suffix
+339,slavegirl,slavegirl,1, girl,suffix
+340,man-boobs,man-boobs,11,man,prefix
+341,man-marking,man marking,6,man,prefix
+342,man-made,man-made,200,man,prefix
+343,man-ape,man-ape,9,man,prefix
+344,man-pack,manpack,8,man,prefix
+345,man-hater,man hater,12,man,prefix
+346,man-eater,man-eater,15,man,prefix
+347,man-bag,man-bag,1,man,prefix
+348,man-ass,manass,1,man,prefix
+349,man-crush,man-crush,10,man,prefix
+350,man-child,man-child,27,man,prefix
+351,man-stealing,manstealing,1,man,prefix
+352,man-woman,manwoman,6,man,prefix
+353,man-machine,man-machine,4,man,prefix
+354,man-cession,mancession,2,man,prefix
+355,man-hours,man-hours,39,man,prefix
+356,man-fest,manfest,2,man,prefix
+357,man-code,mancode,2,man,prefix
+358,man-eating,man-eating,21,man,prefix
+359,man-hour,man-hour,3,man,prefix
+360,man-hating,man hating,7,man,prefix
+361,man-hug,man hug,3,man,prefix
+362,man-up,man up,2,man,prefix
+363,man-year,man-year,1,man,prefix
+364,man-thing,man-thing,1,man,prefix
+365,man-cat,mancat,1,man,prefix
+366,man-stopper,manstopper,8,man,prefix
+367,man-love,manlove,7,man,prefix
+368,man-dog,mandog,2,man,prefix
+369,man-power,man power,11,man,prefix
+370,man-month,man-month,2,man,prefix
+371,man-servant,man servant,2,man,prefix
+372,man-rating,man-rating,1,man,prefix
+373,man-boy,manboy,5,man,prefix
+374,man-db,man-db,7,man,prefix
+375,man-magnet,man magnet,2,man,prefix
+376,man-whore,man-whore,5,man,prefix
+377,man-cave,man cave,2,man,prefix
+378,man-He,manHe,1,man,prefix
+379,man-trap,man-trap,1,man,prefix
+380,man-friend,manfriend,1,man,prefix
+381,man-hunt,man hunt,5,man,prefix
+382,man-hood,manhood,2,man,prefix
+383,man-page,man-page,1,man,prefix
+384,man-slaughter,manslaughter,2,man,prefix
+385,man-kind,mankind,2,man,prefix
+386,man-mark,man-mark,2,man,prefix
+387,womankind,womankind,53,woman,prefix
+388,womanist,womanist,9,woman,prefix
+389,womanly,womanly,2,woman,prefix
+390,womanism,womanism,11,woman,prefix
+391,girlfriend,girlfriend,8436,girl,prefix
+392,girliness,girliness,21,girl,prefix
+393,girlie,girlie,79,girl,prefix
+394,girlfag,girlfag,1,girl,prefix
+395,girlish,girlish,25,girl,prefix
+396,girldom,girldom,2,girl,prefix
+397,girlvinyl,girlvinyl,1,girl,prefix
+398,girlification,girlification,2,girl,prefix
+399,girlishly,girlishly,1,girl,prefix
+400,girlfight,girlfight,5,girl,prefix
+401,girlpower,girlpower,1,girl,prefix
+402,girlcott,girlcott,2,girl,prefix
+403,girllove,girllove,6,girl,prefix
+404,boyfriend,boyfriend,6069,boy,prefix
+405,boyar,boyar,7,boy,prefix
+406,boyband,boyband,13,boy,prefix
+407,boyish,boyish,32,boy,prefix
+408,boying,boying,1,boy,prefix
+409,boyscout,boyscout,9,boy,prefix
+410,boyism,boyism,4,boy,prefix
+411,boyishly,boyishly,1,boy,prefix
+412,boyer,boyer,1,boy,prefix
+413,boysgirls,boysgirls,3,boy,prefix
+414,boytoy,boytoy,1,boy,prefix

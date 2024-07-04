@@ -1,0 +1,660 @@
+word,variant,frequency,category,affix_type,replacement,number
+ballboy,ballboy,5.0,boy,suffix,ball person,SG
+ballboys,ballboys,,boy,suffix,ball people,PL
+batboy,batboy,5.0,boy,suffix,bat person,SG
+batboys,batboys,,boy,suffix,bat people,PL
+bellboy,bellboy,3.0,boy,suffix,bellhop,SG
+bellboys,bellboys,,boy,suffix,bellhops,PL
+boyband,boyband,13.0,boy,prefix,band,SG
+boybands,boybands,,boy,prefix,bands,PL
+boyfriend,boyfriend,6069.0,boy,prefix,partner,SG
+boyfriends,boyfriends,,boy,prefix,partners,PL
+boyish,boyish,32.0,boy,prefix,childish,SG
+boyishly,boyishly,1.0,boy,prefix,childishly,SG
+boyism,boyism,4.0,boy,prefix,childism,SG
+boyisms,boyisms,,boy,prefix,childisms,PL
+boyscout,boyscout,9.0,boy,prefix,scout,SG
+boyscouts,boyscouts,,boy,prefix,scouts,PL
+boytoy,boytoy,1.0,boy,prefix,toy,SG
+boytoys,boytoys,,boy,prefix,toys,PL
+busboy,busboy,37.0,boy,suffix,restaurant attendant,SG
+busboys,busboys,,boy,suffix,restaurant attendants,PL
+callboy,callboy,1.0,boy,suffix,sex worker,SG
+callboys,callboys,,boy,suffix,sex workers,PL
+copyboy,copyboy,1.0,boy,suffix,junior newspaper worker,SG
+copyboys,copyboys,,boy,suffix,junior newspaper workers,PL
+cowboy,cowboy,523.0,boy,suffix,cow herder,SG
+cowboys,cowboys,,boy,suffix,cow herders,PL
+doughboy,doughboy,6.0,boy,suffix,foot soldier,SG
+doughboys,doughboys,,boy,suffix,foot soldiers,PL
+fanboy,fanboy,159.0,boy,suffix,fan,SG
+fanboys,fanboys,,boy,suffix,fans,PL
+farmboy,farmboy,4.0,boy,suffix,farm worker,SG
+farmboys,farmboys,,boy,suffix,farm workers,PL
+femboy,femboy,1.0,boy,suffix,effeminate person,SG
+femboys,femboys,,boy,suffix,effeminate people,PL
+fisherboy,fisherboy,1.0,boy,suffix,young fisher,SG
+fisherboys,fisherboys,,boy,suffix,young fishers,PL
+fratboy,fratboy,2.0,boy,suffix,fraternity member,SG
+fratboys,fratboys,,boy,suffix,fraternity members,PL
+freemen,freemen,,boy,prefix,freepeople,PL
+girlpowers,girlpowers,,boy,prefix,powers,PL
+headboy,headboy,1.0,boy,suffix,student leader,SG
+headboys,headboys,,boy,suffix,student leaders,PL
+homeboy,homeboy,26.0,boy,suffix,fellow member,SG
+homeboys,homeboys,,boy,suffix,fellow members,PL
+houseboy,houseboy,5.0,boy,suffix,domestic worker,SG
+houseboys,houseboys,,boy,suffix,domestic workers,PL
+ladyboy,ladyboy,4.0,boy,suffix,genderqueer person,SG
+ladyboys,ladyboys,,boy,suffix,genderqueer people,PL
+nancyboy,nancyboy,1.0,boy,suffix,nancy,SG
+nancyboys,nancyboys,,boy,suffix,nancies,PL
+newsboy,newsboy,3.0,boy,suffix,newspaper delivery person,SG
+newsboys,newsboys,,boy,suffix,newspaper delivery people,PL
+paperboy,paperboy,28.0,boy,suffix,newspaper delivery person,SG
+paperboys,paperboys,,boy,suffix,newspaper delivery people,PL
+playboy,playboy,163.0,boy,suffix,player,SG
+playboys,playboys,,boy,suffix,players,PL
+plowboy,plowboy,31.0,boy,suffix,plower,SG
+plowboys,plowboys,,boy,suffix,plowers,PL
+tomboy,tomboy,55.0,boy,suffix,boisterous child,SG
+tomboys,tomboys,,boy,suffix,boisterous children,PL
+toyboy,toyboy,1.0,boy,suffix,toy,SG
+toyboys,toyboys,,boy,suffix,toys,PL
+babygirl,babygirl,1.0,girl,suffix,baby,SG
+babygirls,babygirls,,girl,suffix,babies,PL
+ballgirl,ballgirl,1.0,girl,suffix,ball person,SG
+ballgirls,ballgirls,,girl,suffix,ball people,PL
+bargirl,bargirl,2.0,girl,suffix,bartender,SG
+bargirls,bargirls,,girl,suffix,bartenders,PL
+callgirl,callgirl,1.0,girl,suffix,sex worker,SG
+callgirls,callgirls,,girl,suffix,sex workers,PL
+cavegirl,cavegirl,1.0,girl,suffix,caveperson,SG
+cavegirls,cavegirls,,girl,suffix,cavepeople,PL
+cowgirl,cowgirl,13.0,girl,suffix,cow herder,SG
+cowgirls,cowgirls,,girl,suffix,cow herders,PL
+fangirl,fangirl,14.0,girl,suffix,fan,SG
+fangirls,fangirls,,girl,suffix,fans,PL
+farmgirl,farmgirl,1.0,girl,suffix,farm worker,SG
+farmgirls,farmgirls,,girl,suffix,farm workers,PL
+girldom,girldom,2.0,girl,prefix,feminine sphere,SG
+girldoms,girldoms,,girl,prefix,feminine spheres,PL
+girlfag,girlfag,1.0,girl,prefix,woman attracted to gay men ,SG
+girlfags,girlfags,,girl,prefix,woman attracteds to gay men ,PL
+girlfight,girlfight,5.0,girl,prefix,fight,SG
+girlfights,girlfights,,girl,prefix,fights,PL
+girlfriend,girlfriend,8436.0,girl,prefix,partner,SG
+girlfriends,girlfriends,,girl,prefix,partners,PL
+girlification,girlification,2.0,girl,prefix,feminization,SG
+girlifications,girlifications,,girl,prefix,feminizations,PL
+girliness,girliness,21.0,girl,prefix,femininity,SG
+girlinesses,girlinesses,,girl,prefix,femininities,PL
+girlish,girlish,25.0,girl,prefix,feminine,SG
+girlishly,girlishly,1.0,girl,prefix,childishly,SG
+girllove,girllove,6.0,girl,prefix,love,SG
+girlloves,girlloves,,girl,prefix,loves,PL
+girlpower,girlpower,1.0,girl,prefix,power,SG
+headmen,headmen,,girl,prefix,executioners,PL
+papergirl,papergirl,1.0,girl,suffix,newspaper delivery person,SG
+papergirls,papergirls,,girl,suffix,newspaper delivery people,PL
+playgirl,playgirl,1.0,girl,suffix,player,SG
+playgirls,playgirls,,girl,suffix,players,PL
+showgirl,showgirl,18.0,girl,suffix,performer,SG
+showgirls,showgirls,,girl,suffix,performers,PL
+slavegirl,slavegirl,1.0,girl,suffix,slave,SG
+slavegirls,slavegirls,,girl,suffix,slaves,PL
+snowgirl,snowgirl,1.0,girl,suffix,snowperson,SG
+snowgirls,snowgirls,,girl,suffix,snowpeople,PL
+tomgirl,tomgirl,1.0,girl,suffix,timid child,SG
+tomgirls,tomgirls,,girl,suffix,timid children,PL
+adman,adman,5.0,man,suffix,advertiser,SG
+admen,admen,,man,suffix,advertisers,PL
+almsman,almsman,1.0,man,suffix,medical social worker,SG
+almsmen,almsmen,,man,suffix,medical social workers,PL
+ambulanceman,ambulanceman,1.0,man,suffix,emergency medical technician,SG
+ambulancemen,ambulancemen,,man,suffix,emergency medical technicians,PL
+anchorman,anchorman,39.0,man,suffix,anchorperson,SG
+anchormen,anchormen,,man,suffix,anchorpeople,PL
+artilleryman,artilleryman,1.0,man,suffix,cannoneer,SG
+artillerymen,artillerymen,,man,suffix,cannoneers,PL
+assemblyman,assemblyman,36.0,man,suffix,assembly member,SG
+assemblymen,assemblymen,,man,suffix,assembly members,PL
+assman,assman,2.0,man,suffix,assperson,SG
+assmen,assmen,,man,suffix,asspeople,PL
+backwoodsman,backwoodsman,1.0,man,suffix,explorer,SG
+backwoodsmen,backwoodsmen,,man,suffix,explorers,PL
+bagman,bagman,11.0,man,suffix,travelling salesperson,SG
+bagmen,bagmen,,man,suffix,travelling salespeople,PL
+bargeman,bargeman,1.0,man,suffix,barge operator,SG
+bargemen,bargemen,,man,suffix,barge operators,PL
+barman,barman,70.0,man,suffix,bartender,SG
+barmen,barmen,,man,suffix,bartenders,PL
+baseman,baseman,124.0,man,suffix,baseperson,SG
+basemen,basemen,,man,suffix,basepeople,PL
+batsman,batsman,85.0,man,suffix,batter,SG
+batsmen,batsmen,,man,suffix,batters,PL
+bellman,bellman,5.0,man,suffix,bellhop,SG
+bellmen,bellmen,,man,suffix,bellhops,PL
+binman,binman,2.0,man,suffix,garbage collector,SG
+binmen,binmen,,man,suffix,garbage collectors,PL
+bluesman,bluesman,15.0,man,suffix,bluesperson,SG
+bluesmen,bluesmen,,man,suffix,bluespeople,PL
+boatman,boatman,13.0,man,suffix,boater,SG
+boatmen,boatmen,,man,suffix,boaters,PL
+bogeyman,bogeyman,,man,suffix,monster,SG
+bogeymen,bogeymen,,man,suffix,monsters,PL
+bondman,bondman,8.0,man,suffix,slave,SG
+bondmen,bondmen,,man,suffix,slaves,PL
+bondsman,bondsman,22.0,man,suffix,slave,SG
+bondsmen,bondsmen,,man,suffix,slaves,PL
+boogieman,boogieman,8.0,man,suffix,monster,SG
+boogiemen,boogiemen,,man,suffix,monsters,PL
+bowman,bowman,6.0,man,suffix,archer,SG
+bowmen,bowmen,,man,suffix,archers,PL
+bushman,bushman,8.0,man,suffix,indigenous person,SG
+bushmen,bushmen,,man,suffix,indigenous people,PL
+businessman,businessman,1588.0,man,suffix,businessperson,SG
+businessmen,businessmen,,man,suffix,businesspeople,PL
+busman,busman,3.0,man,suffix,bus driver,SG
+busmen,busmen,,man,suffix,bus drivers,PL
+cabman,cabman,1.0,man,suffix,cabdriver,SG
+cabmen,cabmen,,man,suffix,cabdrivers,PL
+cameraman,cameraman,375.0,man,suffix,cameraperson,SG
+cameramen,cameramen,,man,suffix,camerapeople,PL
+cavalryman,cavalryman,3.0,man,suffix,trooper,SG
+cavalrymen,cavalrymen,,man,suffix,troopers,PL
+caveman,caveman,89.0,man,suffix,caveperson,SG
+cavemen,cavemen,,man,suffix,cavepeople,PL
+centerman,centerman,3.0,man,suffix,center,SG
+centermen,centermen,,man,suffix,centers,PL
+centreman,centreman,1.0,man,suffix,centre,SG
+centremen,centremen,,man,suffix,centres,PL
+chessman,chessman,1.0,man,suffix,chess figure,SG
+chessmen,chessmen,,man,suffix,chess figures,PL
+churchman,churchman,9.0,man,suffix,cleric,SG
+churchmen,churchmen,,man,suffix,clerics,PL
+clansman,clansman,4.0,man,suffix,clan member,SG
+clansmen,clansmen,,man,suffix,clan members,PL
+classman,classman,2.0,man,suffix,classmate,SG
+classmen,classmen,,man,suffix,classmates,PL
+coachman,coachman,10.0,man,suffix,coach driver,SG
+coachmen,coachmen,,man,suffix,coach drivers,PL
+cocksman,cocksman,1.0,man,suffix,sexually talented person,SG
+cocksmen,cocksmen,,man,suffix,sexually talented people,PL
+con-man,con-man,6.0,man,suffix,con artist,SG
+con-men,con-men,,man,suffix,con artists,PL
+congressman,congressman,1702.0,man,suffix,congressperson,SG
+congressmen,congressmen,,man,suffix,congresspeople,PL
+conman,conman,37.0,man,suffix,con artist,SG
+conmen,conmen,,man,suffix,con artists,PL
+cornerman,cornerman,2.0,man,suffix,second,SG
+cornermen,cornermen,,man,suffix,seconds,PL
+cornishman,cornishman,2.0,man,suffix,Cornish person,SG
+cornishmen,cornishmen,,man,suffix,Cornish people,PL
+corpsman,corpsman,15.0,man,suffix,medical assistant,SG
+corpsmen,corpsmen,,man,suffix,medical assistants,PL
+counterman,counterman,10.0,man,suffix,counterperson,SG
+countermen,countermen,,man,suffix,counterpeople,PL
+craftsman,craftsman,111.0,man,suffix,craftsperson,SG
+craftsmen,craftsmen,,man,suffix,craftspeople,PL
+crewman,crewman,35.0,man,suffix,crew member,SG
+crewmen,crewmen,,man,suffix,crew members,PL
+crossbowman,crossbowman,1.0,man,suffix,arbalist,SG
+crossbowmen,crossbowmen,,man,suffix,arbalists,PL
+cutman,cutman,1.0,man,suffix,medical attendant,SG
+cutmen,cutmen,,man,suffix,medical attendants,PL
+dairyman,dairyman,12.0,man,suffix,dairy worker,SG
+dairymen,dairymen,,man,suffix,dairy workers,PL
+deadman,deadman,8.0,man,suffix,corpse,SG
+deadmen,deadmen,,man,suffix,corpses,PL
+defenceman,defenceman,61.0,man,suffix,defender,SG
+defencemen,defencemen,,man,suffix,defenders,PL
+defenseman,defenseman,233.0,man,suffix,defender,SG
+defensemen,defensemen,,man,suffix,defenders,PL
+deskman,deskman,2.0,man,suffix,desk sergeant,SG
+deskmen,deskmen,,man,suffix,desk sergeants,PL
+discman,discman,1.0,man,suffix,portable CD player,SG
+discmen,discmen,,man,suffix,portable CD players,PL
+draftsman,draftsman,35.0,man,suffix,draftsperson,SG
+draftsmen,draftsmen,,man,suffix,draftspeople,PL
+draughtsman,draughtsman,4.0,man,suffix,draughtsperson,SG
+draughtsmen,draughtsmen,,man,suffix,draughtspeople,PL
+dutchman,dutchman,1.0,man,suffix,netherlander,SG
+dutchmen,dutchmen,,man,suffix,netherlanders,PL
+everyman,everyman,,man,suffix,ordinary person,SG
+everymen,everymen,,man,suffix,ordinary people,PL
+expressman,expressman,1.0,man,suffix,expressperson,SG
+expressmen,expressmen,,man,suffix,expresspeople,PL
+fireman,fireman,131.0,man,suffix,firefighter,SG
+firemen,firemen,,man,suffix,firefighters,PL
+fisherman,fisherman,376.0,man,suffix,fisher,SG
+fishermen,fishermen,,man,suffix,fishers,PL
+flagman,flagman,10.0,man,suffix,traffic guard,SG
+flagmen,flagmen,,man,suffix,traffic guards,PL
+footman,footman,8.0,man,suffix,servant,SG
+footmen,footmen,,man,suffix,servants,PL
+foreman,foreman,121.0,man,suffix,foreperson,SG
+foremen,foremen,,man,suffix,forepeople,PL
+freedman,freedman,12.0,man,suffix,freedperson,SG
+freedmen,freedmen,,man,suffix,freedpeople,PL
+freeman,freeman,32.0,man,suffix,freeperson,SG
+frenchman,frenchman,1.0,man,suffix,French person,SG
+frenchmen,frenchmen,,man,suffix,French people,PL
+freshman,freshman,412.0,man,suffix,first-year student,SG
+freshmen,freshmen,,man,suffix,first-year students,PL
+frogman,frogman,7.0,man,suffix,diver,SG
+frogmen,frogmen,,man,suffix,divers,PL
+frontiersman,frontiersman,13.0,man,suffix,explorer,SG
+frontiersmen,frontiersmen,,man,suffix,explorers,PL
+frontman,frontman,178.0,man,suffix,frontperson,SG
+frontmen,frontmen,,man,suffix,frontpeople,PL
+garageman,garageman,1.0,man,suffix,mechanic,SG
+garagemen,garagemen,,man,suffix,mechanics,PL
+gateman,gateman,1.0,man,suffix,gatekeeper,SG
+gatemen,gatemen,,man,suffix,gatekeepers,PL
+gentleman,gentleman,,man,suffix,refined person,SG
+gentlemans,gentlemans,,man,suffix,refined people,PL
+gleeman,gleeman,1.0,man,suffix,minstrel,SG
+gleemen,gleemen,,man,suffix,minstrels,PL
+glovesman,glovesman,3.0,man,suffix,boxer,SG
+glovesmen,glovesmen,,man,suffix,boxers,PL
+groomsman,groomsman,5.0,man,suffix,groomsperson,SG
+groomsmen,groomsmen,,man,suffix,groomspeople,PL
+groundsman,groundsman,5.0,man,suffix,groundskeeper,SG
+groundsmen,groundsmen,,man,suffix,groundskeepers,PL
+guardsman,guardsman,14.0,man,suffix,guard,SG
+guardsmen,guardsmen,,man,suffix,guards,PL
+handicraftsman,handicraftsman,1.0,man,suffix,handicraftsperson,SG
+handicraftsmen,handicraftsmen,,man,suffix,handicraftspeople,PL
+hangman,hangman,56.0,man,suffix,executioner,SG
+hangmen,hangmen,,man,suffix,executioners,PL
+headman,headman,25.0,man,suffix,executioner,SG
+headsman,headsman,4.0,man,suffix,executioner,SG
+headsmen,headsmen,,man,suffix,executioners,PL
+hitman,hitman,107.0,man,suffix,assassin,SG
+hitmen,hitmen,,man,suffix,assassins,PL
+horseman,horseman,26.0,man,suffix,equestrian,SG
+horsemen,horsemen,,man,suffix,equestrians,PL
+huntsman,huntsman,3.0,man,suffix,hunter,SG
+huntsmen,huntsmen,,man,suffix,hunters,PL
+iceman,iceman,12.0,man,suffix,ice vendor,SG
+icemen,icemen,,man,suffix,ice vendors,PL
+jokerman,jokerman,18.0,man,suffix,joker,SG
+jokermen,jokermen,,man,suffix,jokers,PL
+journeyman,journeyman,30.0,man,suffix,artisan,SG
+journeymen,journeymen,,man,suffix,artisans,PL
+kinsman,kinsman,17.0,man,suffix,relative,SG
+kinsmen,kinsmen,,man,suffix,relatives,PL
+landsman,landsman,5.0,man,suffix,landlubber,SG
+landsmen,landsmen,,man,suffix,landlubbers,PL
+lawman,lawman,21.0,man,suffix,law officer,SG
+lawmen,lawmen,,man,suffix,law officers,PL
+lensman,lensman,3.0,man,suffix,photographer,SG
+lensmen,lensmen,,man,suffix,photographers,PL
+lifeboatman,lifeboatman,4.0,man,suffix,lifeboat sailor,SG
+lifeboatmen,lifeboatmen,,man,suffix,lifeboat sailors,PL
+liftman,liftman,1.0,man,suffix,lift operator,SG
+liftmen,liftmen,,man,suffix,lift operators,PL
+lineman,lineman,74.0,man,suffix,lineperson,SG
+linemen,linemen,,man,suffix,linepeople,PL
+linesman,linesman,23.0,man,suffix,linesperson,SG
+linesmen,linesmen,,man,suffix,linespeople,PL
+lobsterman,lobsterman,4.0,man,suffix,lobster catcher,SG
+lobstermen,lobstermen,,man,suffix,lobster catchers,PL
+longshoreman,longshoreman,11.0,man,suffix,dockworker,SG
+longshoremen,longshoremen,,man,suffix,dockworkers,PL
+lumberman,lumberman,6.0,man,suffix,logger,SG
+lumbermen,lumbermen,,man,suffix,loggers,PL
+madman,madman,183.0,man,suffix,maniac,SG
+madmen,madmen,,man,suffix,maniacs,PL
+mailman,mailman,52.0,man,suffix,mail carrier,SG
+mailmen,mailmen,,man,suffix,mail carriers,PL
+man-ass,manass,1.0,man,prefix,ass,SG
+man-asses,man-asses,,man,prefix,asses,PL
+man-bag,man-bag,1.0,man,prefix,handbag,SG
+man-bags,man-bags,,man,prefix,handbags,PL
+man-boob,man-boob,,man,prefix,boob,PL
+man-boobs,man-boobs,11.0,man,prefix,boobs,SG
+man-cave,man cave,2.0,man,prefix,sanctuary,SG
+man-caves,man-caves,,man,prefix,sanctuaries,PL
+man-cession,mancession,2.0,man,prefix,recession,SG
+man-cessions,man-cessions,,man,prefix,recessions,PL
+man-child,man-child,27.0,man,prefix,child,SG
+man-childs,man-childs,,man,prefix,children,PL
+man-crush,man-crush,10.0,man,prefix,crush,SG
+man-crushes,man-crushes,,man,prefix,crushes,PL
+man-eater,man-eater,15.0,man,prefix,cannibal,SG
+man-eaters,man-eaters,,man,prefix,cannibals,PL
+man-eating,man-eating,21.0,man,prefix,human-eating,SG
+man-eatings,man-eatings,,man,prefix,human-eatings,PL
+man-friend,manfriend,1.0,man,prefix,friend,SG
+man-friends,man-friends,,man,prefix,friends,PL
+man-hater,man hater,12.0,man,prefix,hater,SG
+man-haters,man-haters,,man,prefix,haters,PL
+man-hating,man hating,7.0,man,prefix,misandry,SG
+man-hatings,man-hatings,,man,prefix,misandries,PL
+man-hour,man-hour,3.0,man,prefix,work-hour,SG
+man-hours,man-hours,,man,prefix,work-hours,PL
+man-hug,man hug,3.0,man,prefix,pound hug,SG
+man-hugs,man-hugs,,man,prefix,pound hugs,PL
+man-hunt,man hunt,5.0,man,prefix,organized search,SG
+man-hunts,man-hunts,,man,prefix,organized searches,PL
+man-kind,mankind,2.0,man,prefix,humankind,SG
+man-kinds,man-kinds,,man,prefix,humankinds,PL
+man-machine,man-machine,4.0,man,prefix,human-computer,SG
+man-machines,man-machines,,man,prefix,human-computers,PL
+man-made,man-made,200.0,man,prefix,synthetic,SG
+man-magnet,man magnet,2.0,man,prefix,attractive person,SG
+man-magnets,man-magnets,,man,prefix,attractive people,PL
+man-mark,man-mark,2.0,man,prefix,mark,SG
+man-marking,man marking,6.0,man,prefix,marking,SG
+man-markings,man-markings,,man,prefix,markings,PL
+man-marks,man-marks,,man,prefix,marks,PL
+man-month,man-month,2.0,man,prefix,work-month,SG
+man-pack,manpack,8.0,man,prefix,pack,SG
+man-packs,man-packs,,man,prefix,packs,PL
+man-power,manpower,11.0,man,prefix,workforce,SG
+man-powers,man-powers,,man,prefix,workforces,PL
+man-rating,man-rating,1.0,man,prefix,human-rating,SG
+man-ratings,man-ratings,,man,prefix,human-ratings,PL
+man-servant,man servant,2.0,man,prefix,servant,SG
+man-stealing,manstealing,1.0,man,prefix,kidnapping,SG
+man-stealings,man-stealings,,man,prefix,kidnappings,PL
+man-stopper,manstopper,8.0,man,prefix,stopping power,SG
+man-stoppers,man-stoppers,,man,prefix,stopping powers,PL
+man-trap,man-trap,1.0,man,prefix,attractive person,SG
+man-traps,man-traps,,man,prefix,attractive people,PL
+man-up,man up,2.0,man,prefix,adult up,SG
+man-ups,man-ups,,man,prefix,adult ups,PL
+man-whore,man-whore,5.0,man,prefix,sex worker,SG
+man-whores,man-whores,,man,prefix,sex workers,PL
+man-year,man-year,1.0,man,prefix,work-year,SG
+marksman,marksman,58.0,man,suffix,sharpshooter,SG
+marksmen,marksmen,,man,suffix,sharpshooters,PL
+merchantman,merchantman,5.0,man,suffix,merchant,SG
+merchantmen,merchantmen,,man,suffix,merchants,PL
+merman,merman,1.0,man,suffix,merperson,SG
+mermen,mermen,,man,suffix,merpeople,PL
+midshipman,midshipman,19.0,man,suffix,naval officer,SG
+midshipmen,midshipmen,,man,suffix,naval officers,PL
+militiaman,militiaman,27.0,man,suffix,militia member,SG
+militiamen,militiamen,,man,suffix,militia members,PL
+minuteman,minuteman,2.0,man,suffix,soldier,SG
+minutemen,minutemen,,man,suffix,soldiers,PL
+motorman,motorman,24.0,man,suffix,operator,SG
+motormen,motormen,,man,suffix,operators,PL
+newsman,newsman,68.0,man,suffix,reporter,SG
+newsmen,newsmen,,man,suffix,reporters,PL
+newspaperman,newspaperman,14.0,man,suffix,journalist,SG
+newspapermen,newspapermen,,man,suffix,journalists,PL
+nightwatchman,nightwatchman,1.0,man,suffix,nightwatchbatter,SG
+nightwatchmen,nightwatchmen,,man,suffix,nightwatchbatters,PL
+nobleman,nobleman,,man,suffix,noble person,SG
+noblemans,noblemans,,man,suffix,noble people,PL
+oarsman,oarsman,3.0,man,suffix,rower,SG
+oarsmen,oarsmen,,man,suffix,rowers,PL
+ombudsman,ombudsman,109.0,man,suffix,ombudsperson,SG
+ombudsmen,ombudsmen,,man,suffix,ombudspeople,PL
+overman,overman,1.0,man,suffix,übermensch,SG
+overmen,overmen,,man,suffix,übermensches,PL
+oysterman,oysterman,3.0,man,suffix,oysterperson,SG
+oystermen,oystermen,,man,suffix,oysterpeople,PL
+packetman,packetman,2.0,man,suffix,packet sailor,SG
+packetmen,packetmen,,man,suffix,packet sailors,PL
+packman,packman,2.0,man,suffix,seller,SG
+packmen,packmen,,man,suffix,sellers,PL
+pieman,pieman,2.0,man,suffix,pie vendor,SG
+piemen,piemen,,man,suffix,pie vendors,PL
+pitchman,pitchman,67.0,man,suffix,pitcher,SG
+pitchmen,pitchmen,,man,suffix,pitchers,PL
+placeman,placeman,5.0,man,suffix,appointee,SG
+placemen,placemen,,man,suffix,appointees,PL
+ploughman,ploughman,6.0,man,suffix,plower,SG
+ploughmen,ploughmen,,man,suffix,plowers,PL
+plowman,plowman,3.0,man,suffix,plower,SG
+plowmen,plowmen,,man,suffix,plowers,PL
+pointsman,pointsman,1.0,man,suffix,traffic officer,SG
+pointsmen,pointsmen,,man,suffix,traffic officers,PL
+policeman,policeman,1155.0,man,suffix,police officer,SG
+policemen,policemen,,man,suffix,police officers,PL
+postman,postman,127.0,man,suffix,mail carrier,SG
+postmen,postmen,,man,suffix,mail carriers,PL
+pressman,pressman,2.0,man,suffix,printer,SG
+pressmen,pressmen,,man,suffix,printers,PL
+prman,prman,1.0,man,suffix,press agent,SG
+prmen,prmen,,man,suffix,press agents,PL
+rubberman,rubberman,1.0,man,suffix,latex fetishist,SG
+rubbermen,rubbermen,,man,suffix,latex fetishists,PL
+seaman,seaman,43.0,man,suffix,sailor,SG
+seamen,seamen,,man,suffix,sailors,PL
+seedsman,seedsman,6.0,man,suffix,seeds dealer,SG
+seedsmen,seedsmen,,man,suffix,seeds dealers,PL
+selectman,selectman,7.0,man,suffix,member of the board,SG
+selectmen,selectmen,,man,suffix,members of the board,PL
+serviceman,serviceman,67.0,man,suffix,service member,SG
+servicemen,servicemen,,man,suffix,service members,PL
+she-man,she-man,1.0,man,suffix,feminine person,SG
+she-men,she-men,,man,suffix,feminine people,PL
+sheepman,sheepman,8.0,man,suffix,shepherd,SG
+sheepmen,sheepmen,,man,suffix,shepherds,PL
+showman,showman,69.0,man,suffix,showperson,SG
+showmen,showmen,,man,suffix,showpeople,PL
+sideman,sideman,3.0,man,suffix,side artist,SG
+sidemen,sidemen,,man,suffix,side artists,PL
+slaughterman,slaughterman,2.0,man,suffix,butcher,SG
+slaughtermen,slaughtermen,,man,suffix,butchers,PL
+snowman,snowman,60.0,man,suffix,snowperson,SG
+snowmen,snowmen,,man,suffix,snowpeople,PL
+soundman,soundman,9.0,man,suffix,audio engineer,SG
+soundmen,soundmen,,man,suffix,audio engineers,PL
+spaceman,spaceman,18.0,man,suffix,astronaut,SG
+spacemen,spacemen,,man,suffix,astronauts,PL
+spearfisherman,spearfisherman,2.0,man,suffix,spearfisher,SG
+spearfishermen,spearfishermen,,man,suffix,spearfishers,PL
+spearman,spearman,1.0,man,suffix,lancer,SG
+spearmen,spearmen,,man,suffix,lancers,PL
+spokeman,spokeman,,man,suffix,spokeperson,SG
+spokemen,spokemen,,man,suffix,spokepeople,PL
+spokesman,spokesman,18072.0,man,suffix,spokesperson,SG
+spokesmen,spokesmen,,man,suffix,spokespeople,PL
+sportsman,sportsman,58.0,man,suffix,athlete,SG
+sportsmen,sportsmen,,man,suffix,athletes,PL
+statesman,statesman,293.0,man,suffix,statesperson,SG
+statesmen,statesmen,,man,suffix,statespeople,PL
+stickman,stickman,10.0,man,suffix,stick figure,SG
+stickmen,stickmen,,man,suffix,stick figures,PL
+stockman,stockman,11.0,man,suffix,stock farmer,SG
+stockmen,stockmen,,man,suffix,stock farmers,PL
+storeman,storeman,3.0,man,suffix,warehouser,SG
+storemen,storemen,,man,suffix,warehousers,PL
+strongman,strongman,124.0,man,suffix,strong person,SG
+strongmen,strongmen,,man,suffix,strong people,PL
+sub-man,sub-man,1.0,man,suffix,inferior human,SG
+sub-men,sub-men,,man,suffix,inferior humans,PL
+superman,superman,94.0,man,suffix,superhero,SG
+supermen,supermen,,man,suffix,superheroes,PL
+swagman,swagman,5.0,man,suffix,transient labourer,SG
+swagmen,swagmen,,man,suffix,transient labourers,PL
+swingman,swingman,11.0,man,suffix,versatile athlete,SG
+swingmen,swingmen,,man,suffix,versatile athletes,PL
+switchman,switchman,2.0,man,suffix,railroad worker,SG
+switchmen,switchmen,,man,suffix,railroad workers,PL
+swordman,swordman,3.0,man,suffix,fencer,SG
+swordmen,swordmen,,man,suffix,fencers,PL
+swordsman,swordsman,23.0,man,suffix,fencer,SG
+swordsmen,swordsmen,,man,suffix,fencers,PL
+targetman,targetman,3.0,man,suffix,forward,SG
+targetmen,targetmen,,man,suffix,forwards,PL
+taxman,taxman,47.0,man,suffix,tax collector,SG
+taxmen,taxmen,,man,suffix,tax collectors,PL
+townsman,townsman,1.0,man,suffix,townsperson,SG
+townsmen,townsmen,,man,suffix,townspeople,PL
+tribesman,tribesman,47.0,man,suffix,tribesperson,SG
+tribesmen,tribesmen,,man,suffix,tribespeople,PL
+triggerman,triggerman,13.0,man,suffix,hired gun,SG
+triggermen,triggermen,,man,suffix,hired guns,PL
+underclassman,underclassman,2.0,man,suffix,undergraduate,SG
+underclassmen,underclassmen,,man,suffix,undergraduates,PL
+upperclassman,upperclassman,1.0,man,suffix,student,SG
+upperclassmen,upperclassmen,,man,suffix,students,PL
+warehouseman,warehouseman,20.0,man,suffix,warehouse worker,SG
+warehousemen,warehousemen,,man,suffix,warehouse workers,PL
+washerman,washerman,1.0,man,suffix,washer,SG
+washermen,washermen,,man,suffix,washers,PL
+watchman,watchman,60.0,man,suffix,watcher,SG
+watchmen,watchmen,,man,suffix,watchers,PL
+weatherman,weatherman,55.0,man,suffix,weather forecaster,SG
+weathermen,weathermen,,man,suffix,weather forecasters,PL
+wheelman,wheelman,4.0,man,suffix,driver,SG
+wheelmen,wheelmen,,man,suffix,drivers,PL
+whiteman,whiteman,4.0,man,suffix,white person,SG
+whitemen,whitemen,,man,suffix,white people,PL
+wildman,wildman,4.0,man,suffix,wild person,SG
+wildmen,wildmen,,man,suffix,wild people,PL
+winchman,winchman,1.0,man,suffix,rescue swimmer,SG
+winchmen,winchmen,,man,suffix,rescue swimmers,PL
+wingman,wingman,46.0,man,suffix,pilot partner,SG
+wingmen,wingmen,,man,suffix,pilot partners,PL
+woodman,woodman,2.0,man,suffix,woodworker,SG
+woodmen,woodmen,,man,suffix,woodworkers,PL
+woodsman,woodsman,15.0,man,suffix,forester,SG
+woodsmen,woodsmen,,man,suffix,foresters,PL
+workingman,workingman,17.0,man,suffix,worker,SG
+workingmen,workingmen,,man,suffix,workers,PL
+workman,workman,73.0,man,suffix,worker,SG
+workmen,workmen,,man,suffix,workers,PL
+yeoman,yeoman,19.0,man,suffix,officer,SG
+yeomen,yeomen,,man,suffix,officers,PL
+airmanship,airmanship,,manship,suffix,aerial skill,SG
+airmanships,airmanships,,manship,suffix,aerial skills,PL
+batsmanship,batsmanship,,manship,suffix,batting skill,SG
+batsmanships,batsmanships,,manship,suffix,batting skills,PL
+brinkmanship,brinkmanship,,manship,suffix,extreme strategy,SG
+brinkmanships,brinkmanships,,manship,suffix,extreme strategies,PL
+brinksmanship,brinksmanship,,manship,suffix,extreme strategy,SG
+brinksmanships,brinksmanships,,manship,suffix,extreme strategies,PL
+chairmanship,chairmanship,,manship,suffix,chairpersonship,SG
+chairmanships,chairmanships,,manship,suffix,chairpersonships,PL
+churchmanships ,churchmanships ,,manship,suffix,churchpersonships,PL
+churchmanship ,churchmanship ,,manship,suffix,churchpersonship,SG
+craftmanship,craftmanship,,manship,suffix,craftpersonship,SG
+craftmanships,craftmanships,,manship,suffix,craftpersonships,PL
+craftsmanship,craftsmanship,,manship,suffix,craftspersonship,SG
+craftsmanships,craftsmanships,,manship,suffix,craftspersonships,PL
+draftsmanship,draftsmanship,,manship,suffix,draftspersonship,SG
+draftsmanships,draftsmanships,,manship,suffix,draftspersonships,PL
+draughtsmanship,draughtsmanship,,manship,suffix,draughtspersonship,SG
+draughtsmanships,draughtsmanships,,manship,suffix,draughtspersonships,PL
+foremanship,foremanship,,manship,suffix,forepersonship,SG
+foremanships,foremanships,,manship,suffix,forepersonships,PL
+gamesmanship,gamesmanship,,manship,suffix,unsporting tactic,SG
+gamesmanships,gamesmanships,,manship,suffix,unsporting tactics,PL
+gentlemanship,gentlemanship,,manship,suffix,refinedness,SG
+gentlemanships,gentlemanships,,manship,suffix,refinednesses,PL
+grantsmanship,grantsmanship,,manship,suffix,grant acquisition expertise,SG
+grantsmanships,grantsmanships,,manship,suffix,grant acquisition expertises,PL
+handcraftsmanship,handcraftsmanship,,manship,suffix,handcraftspersonship,SG
+handcraftsmanships,handcraftsmanships,,manship,suffix,handcraftspersonships,PL
+horsemanship,horsemanship,,manship,suffix,equestrian skill,SG
+horsemanships,horsemanships,,manship,suffix,equestrian skills,PL
+journeymanship,journeymanship,,manship,suffix,artisanship,SG
+journeymanships,journeymanships,,manship,suffix,artisanships,PL
+manship,manship,,manship,suffix,courage,SG
+manships,manships,,manship,suffix,courages,PL
+marksmanship,marksmanship,,manship,suffix,sharpshooting skill,SG
+marksmanships,marksmanships,,manship,suffix,sharpshooting skills,PL
+oarsmanship,oarsmanship,,manship,suffix,rowing skill,SG
+oarsmanships,oarsmanships,,manship,suffix,rowing skills,PL
+penmanship,penmanship,,manship,suffix,calligraphy,SG
+penmanships,penmanships,,manship,suffix,calligraphies,PL
+salesmanship,salesmanship,,manship,suffix,selling skill,SG
+salesmanships,salesmanships,,manship,suffix,selling skills,PL
+seamanship,seamanship,,manship,suffix,marine skill,SG
+seamanships,seamanships,,manship,suffix,marine skills,PL
+showmanship,showmanship,,manship,suffix,performing skill,SG
+showmanships,showmanships,,manship,suffix,performing skills,PL
+sportsmanship,sportsmanship,,manship,suffix,athletic skill,SG
+sportsmanships,sportsmanships,,manship,suffix,athletic skills,PL
+statesmanship,statesmanship,,manship,suffix,public management skill,SG
+statesmanships,statesmanships,,manship,suffix,public management skills,PL
+stockmanship,stockmanship,,manship,suffix,livestock raising skill,SG
+stockmanships,stockmanships,,manship,suffix,livestock raising skills,PL
+swordsmanship,swordsmanship,,manship,suffix,fencing skill,SG
+swordsmanships,swordsmanships,,manship,suffix,fencing skills,PL
+upmanship,upmanship,,manship,suffix,competitive behavior,SG
+upmanships,upmanships,,manship,suffix,competitive behaviors,PL
+workmanship,workmanship,,manship,suffix,workpersonship,SG
+workmanships,workmanships,,manship,suffix,workpersonships,PL
+ambulancewoman,ambulancewoman,1.0,woman,suffix,emergency medical technician,SG
+ambulancewomen,ambulancewomen,,woman,suffix,emergency medical technicians,PL
+anchorwoman,anchorwoman,19.0,woman,suffix,anchorperson,SG
+anchorwomen,anchorwomen,,woman,suffix,anchorpeople,PL
+anti-woman,antiwoman,1.0,woman,suffix,misogynist,SG
+anti-women,anti-women,,woman,suffix,misogynists,PL
+bogeywoman,bogeywoman,3.0,woman,suffix,monster,SG
+bogeywomen,bogeywomen,,woman,suffix,monsters,PL
+bondwoman,bondwoman,6.0,woman,suffix,slave,SG
+bondwomen,bondwomen,,woman,suffix,slaves,PL
+businesswoman,businesswoman,101.0,woman,suffix,businessperson,SG
+businesswomen,businesswomen,,woman,suffix,businesspeople,PL
+cavewoman,cavewoman,3.0,woman,suffix,caveperson,SG
+cavewomen,cavewomen,,woman,suffix,cavepeople,PL
+charwoman,charwoman,6.0,woman,suffix,cleaner,SG
+charwomen,charwomen,,woman,suffix,cleaners,PL
+congresswoman,congresswoman,163.0,woman,suffix,congressperson,SG
+congresswomen,congresswomen,,woman,suffix,congresspeople,PL
+craftswoman,craftswoman,2.0,woman,suffix,craftsoerson,SG
+craftswomen,craftswomen,,woman,suffix,craftsoersons,PL
+everywoman,everywoman,6.0,woman,suffix,ordinary person,SG
+everywomen,everywomen,,woman,suffix,ordinary people,PL
+fisherwoman,fisherwoman,5.0,woman,suffix,fisher,SG
+fisherwomen,fisherwomen,,woman,suffix,fishers,PL
+forewoman,forewoman,15.0,woman,suffix,foreperson,SG
+forewomen,forewomen,,woman,suffix,forepeople,PL
+frontierswoman,frontierswoman,6.0,woman,suffix,explorer,SG
+frontierswomen,frontierswomen,,woman,suffix,explorers,PL
+frontwoman,frontwoman,3.0,woman,suffix,frontperson,SG
+frontwomen,frontwomen,,woman,suffix,frontpeople,PL
+gentlewoman,gentlewoman,7.0,woman,suffix,refined person,SG
+gentlewomen,gentlewomen,,woman,suffix,refined people,PL
+hitwoman,hitwoman,2.0,woman,suffix,assassin,SG
+hitwomen,hitwomen,,woman,suffix,assassins,PL
+horsewoman,horsewoman,1.0,woman,suffix,equestrian,SG
+horsewomen,horsewomen,,woman,suffix,equestrians,PL
+madwoman,madwoman,6.0,woman,suffix,maniac,SG
+madwomen,madwomen,,woman,suffix,maniacs,PL
+man-woman,manwoman,2.0,woman,suffix,masculine person,SG
+man-women,man-women,,woman,suffix,masculine people,PL
+markswoman,markswoman,1.0,woman,suffix,sharpshooter,SG
+markswomen,markswomen,,woman,suffix,sharpshooters,PL
+newswoman,newswoman,4.0,woman,suffix,reporter,SG
+newswomen,newswomen,,woman,suffix,reporters,PL
+noblewoman,noblewoman,6.0,woman,suffix,noble person,SG
+noblewomen,noblewomen,,woman,suffix,noble people,PL
+policewoman,policewoman,46.0,woman,suffix,police officer,SG
+policewomen,policewomen,,woman,suffix,police officers,PL
+selectwoman,selectwoman,1.0,woman,suffix,member of the board,SG
+selectwomen,selectwomen,,woman,suffix,members of the board,PL
+servicewoman,servicewoman,3.0,woman,suffix,service member,SG
+servicewomen,servicewomen,,woman,suffix,service members,PL
+spokeswoman,spokeswoman,5731.0,woman,suffix,spokesperson,SG
+spokeswomen,spokeswomen,,woman,suffix,spokespeople,PL
+spokewoman,spokewoman,6.0,woman,suffix,spokeperson,SG
+spokewomen,spokewomen,,woman,suffix,spokepeople,PL
+sportswoman,sportswoman,1.0,woman,suffix,athlete,SG
+sportswomen,sportswomen,,woman,suffix,athletes,PL
+stateswoman,stateswoman,2.0,woman,suffix,statesperson,SG
+stateswomen,stateswomen,,woman,suffix,statespeople,PL
+swordswoman,swordswoman,1.0,woman,suffix,fencer,SG
+swordswomen,swordswomen,,woman,suffix,fencers,PL
+tribeswoman,tribeswoman,1.0,woman,suffix,tribesperson,SG
+tribeswomen,tribeswomen,,woman,suffix,tribespeople,PL
+washerwoman,washerwoman,2.0,woman,suffix,washer,SG
+washerwomen,washerwomen,,woman,suffix,washers,PL
+womanism,womanism,11.0,woman,prefix,feminism,SG
+womanisms,womanisms,,woman,prefix,feminisms,PL
+womanist,womanist,9.0,woman,prefix,feminist,SG
+womanists,womanists,,woman,prefix,feminists,PL
+womankind,womankind,53.0,woman,prefix,humankind,SG
+womankinds,womankinds,,woman,prefix,humankinds,PL
+womanly,womanly,2.0,woman,prefix,feminine,SG

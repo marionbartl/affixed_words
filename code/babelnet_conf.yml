@@ -1,0 +1,3 @@
+RESTFUL_KEY: '33e55e82-4012-4201-84f8-f3b55fa4d4c0'
+# BabelNet 5.3 REST endpoint
+RESTFUL_URL: 'https://babelnet.io/v5/service'
